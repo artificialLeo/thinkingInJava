@@ -1,9 +1,5 @@
 package com.company.everythingIsAnObject;
 
-/****************** Exercise 7 ******************
- * Turn the Incrementable code fragments into a
- * working program.
- ************************************************/
 
 class StaticTest {
     static int i = 1;

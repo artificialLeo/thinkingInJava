@@ -1,10 +1,6 @@
 package com.company.operators;
 
-/****************** Exercise 6 *****************
- * Following Exercise 5 assign, a new Dog
- * reference to spot's object. Test for comparison
- * using == and equals() for all references.
- ***********************************************/
+
 
 public class DogsComparison {
     static void compare(Dog dog1, Dog dog2) {

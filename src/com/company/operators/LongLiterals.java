@@ -1,10 +1,5 @@
 package com.company.operators;
 
-/****************** Exercise 8 *****************
- * Show that hex and octal notations work with long
- * values. Use Long.toBinaryString() to display
- * the results.
- ***********************************************/
 
 public class LongLiterals {
     public static void main(String[] args) {

@@ -1,10 +1,7 @@
 package com.company.operators;
 
-/****************** Exercise 3 *****************
- * Create a class containing a float and use it
- * to demonstrate aliasing during method calls.
- ***********************************************
- */
+
+
 
 public class AliasingFloat {
     static void f(Integral y) {

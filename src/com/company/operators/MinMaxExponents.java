@@ -1,9 +1,6 @@
 package com.company.operators;
 
-/****************** Exercise 9 *****************
- * Display the largest and smallest numbers for
- * both float and double exponential notation.
- ***********************************************/
+
 
 public class MinMaxExponents {
     public static void main(String[] args) {

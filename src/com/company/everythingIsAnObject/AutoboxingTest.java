@@ -1,10 +1,6 @@
 package com.company.everythingIsAnObject;
 
-/****************** Exercise 9 ******************
- * Write a program to demonstrate that
- * autoboxing works for all the primitive types
- * and their wrappers.
- ************************************************/
+
 
 public class AutoboxingTest {
     public static void main(String[] args) {

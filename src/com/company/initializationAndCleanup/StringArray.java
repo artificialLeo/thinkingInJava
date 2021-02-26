@@ -1,8 +1,5 @@
 package com.company.initializationAndCleanup;
-/****************** Exercise 16 *****************
- * Assign a string to each element of an array of
- * String objects. Print the array using a for loop.
- ************************************************/
+
 public class StringArray {
     public static void main(String[] args) {
         String sa1[] = new String[4];
